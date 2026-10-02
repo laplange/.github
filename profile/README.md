@@ -9,8 +9,8 @@ de competências gerenciais.
 
 ## Em desenvolvimento
 
-Uma plataforma web de apoio à gestão em saúde para municípios de pequeno porte,
-construída a partir das pesquisas do laboratório.
+**GEM Saúde** (Gestão Municipal em Saúde): plataforma web de apoio à gestão em saúde
+para municípios de pequeno porte, construída a partir das pesquisas do laboratório.
 
 ## Contato
 
